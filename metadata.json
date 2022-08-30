@@ -1,11 +1,11 @@
 {
-  "name": "puppet-squid",
-  "version": "3.0.1",
+  "name": "tca-puppet-squid",
+  "version": "3.0.2",
   "author": "Vox Pupuli",
   "summary": "configure squid caching proxy",
   "license": "Apache-2.0",
-  "source": "https://github.com/voxpupuli/puppet-squid",
-  "project_page": "https://github.com/voxpupuli/puppet-squid",
+  "source": "https://github.com/Trust-Company-of-America/tca-puppet-squid",
+  "project_page": "https://github.com/Trust-Company-of-America/tca-puppet-squid",
   "issues_url": "https://github.com/voxpupuli/puppet-squid/issues",
   "tags": [
     "squid",
